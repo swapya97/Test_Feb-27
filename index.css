@@ -1,0 +1,109 @@
+.head {
+  margin-top: 50px;
+  padding-top: 50px;
+  width: 850px;
+  height: 550px;
+  background-color: rgb(255, 255, 255);
+  margin: auto;
+}
+.one {
+  background-color: red;
+  width: 300px;
+  height: 250px;
+  text-align: center;
+}
+.two {
+  background-color: yellow;
+  width: 400px;
+  height: 125px;
+  position: relative;
+  left: 300px;
+  bottom: 250px;
+}
+.three {
+  background-color: green;
+  width: 400px;
+  height: 125px;
+  position: relative;
+  left: 300px;
+  bottom: 250px;
+}
+.four {
+  background-color: rgb(255, 0, 106);
+  width: 150px;
+  height: 250px;
+  position: relative;
+  left: 700px;
+  bottom: 500px;
+}
+.five {
+  background-color: orangered;
+  width: 400px;
+  height: 125px;
+  position: relative;
+  bottom: 500px;
+}
+.six {
+  background-color: rgb(0, 183, 255);
+  width: 150px;
+  height: 125px;
+  position: relative;
+  left: 400px;
+  bottom: 625px;
+}
+.seven {
+  background-color: rgb(58, 0, 112);
+  width: 300px;
+  height: 250px;
+  position: relative;
+  left: 550px;
+  bottom: 750px;
+}
+.eight {
+  background-color: rgb(189, 131, 110);
+  width: 550px;
+  height: 125px;
+  position: relative;
+  bottom: 875px;
+}
+
+.text1 {
+  position: absolute;
+  top: 23%;
+  left: 27.5%;
+}
+.text2 {
+  position: absolute;
+  top: 30px;
+  left: 160px;
+}
+.text3 {
+  position: absolute;
+  top: 30px;
+  left: 160px;
+}
+.text4 {
+  position: absolute;
+  top: 85px;
+  left: 50px;
+}
+.text5 {
+  position: absolute;
+  top: 35px;
+  left: 175px;
+}
+.text6 {
+  position: absolute;
+  top: 30px;
+  left: 50px;
+}
+.text7 {
+  position: absolute;
+  top: 90px;
+  left: 120px;
+}
+.text8 {
+  position: absolute;
+  top: 35px;
+  left: 245px;
+}
